@@ -1,9 +1,10 @@
 numpy
-scikit-learn
 pydantic
-fastapi
 uvicorn
-pandas
-gunicorn==19.9.0
+gunicorn
 uvloop
 httptools
+Flask
+pandas
+scikit-learn
+pydantic
